@@ -1,0 +1,13 @@
+{
+  "nombre": "Raúl Fernández Cortés",
+  "informacion": {
+    "ocupación": "Alumno ingeniería Informática de la Universidad de Jaén.",
+    "correo": "rfc00024@red.ujaen.es",
+    "enlace github": "https://github.com/rfc00024",
+    "enlace trello": "https://trello.com/u/raulfernandezcortes"
+  },
+  "imagen": {
+    "url": "/imagen.json",
+    "width": "200px"
+  }
+}
